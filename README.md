@@ -5,6 +5,9 @@ csgo-server-sourcemod-docker
 
 Counter-Strike: Global Offensive (CS:GO) is an online first-person shooter developed by Hidden Path Entertainment and Valve Corporation. It is the fourth game in the main Counter-Strike franchise.
 
+## SourceMod
+
+This Docker image uses [SourceMod](http://www.sourcemod.net/).
 
 # How to use this image
 
